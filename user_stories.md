@@ -91,3 +91,35 @@ ${{\color{Goldenrod}{\textsf{Who:}}}}$ Cooper is a retired microbiome scientist 
 ${{\color{OliveDrab}{\textsf{Wants:}}}}$ Cooper would be able to download datasets from other papers and feed them into this tool. He wants to be able to play around and visualize data to find interesting things he can suggest his former students to look into. <br>
 ${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Cooper needs an easy interface with a lot of functionality so that he can play around with a lot of different variables without having to code himself. <br>
 ${{\color{MediumPurple}{\textsf{Skill:}}}}$ Cooper used to do a little bit of python coding, but not enough for him to do what he wants to do with this tool on his own. <br>
+
+## Avery's Users:
+**1. Lorri:** <br>
+${{\color{Goldenrod}{\textsf{Who:}}}}$ Lorri is a physician-scientist who specializes in working with cystic fibrosis (CF) patients, particularly children.<br> 
+${{\color{OliveDrab}{\textsf{Wants:}}}}$ Lorri has been prescribing a type of drug called CFTR modulators to her patients for a few years now, but recently, a patient of hers reported severe psychiatric side effects. Being a researcher herself, Lorri is curious to study whether the gut-brain axis is playing a role in these side effects. <br>
+${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Lori needs a GUI-based tool that would allow her to easily analyze patient microbiome and drug data and identify potential conclusions. <br>
+${{\color{MediumPurple}{\textsf{Skill:}}}}$ Lori has a bit of experience with Python, but not enough to write complex programs. <br>
+
+**2. Cyrus:** <br>
+${{\color{Goldenrod}{\textsf{Who:}}}}$ Cyrus is a graduate student in microbiology. He is currently studying the effect of various external factors on the microbiome, such as exercise, illness, and medication status. <br> 
+${{\color{OliveDrab}{\textsf{Wants:}}}}$ Cyrus recently heard about a technique called MEDI that extracts nutrient data out of fecal stool samples. He wants to add diet data to his workflow in a modular manner. <br>
+${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Cyrus needs a well-documented Python package to aid in his data analysis. He wants it to be customizable so that he can adapt it for his existing workflow. <br>
+${{\color{MediumPurple}{\textsf{Skill:}}}}$ Cyrus has a lot of experience with Python and is comfortable learning from documentation. <br>
+
+**3. Siobhan:** <br>
+${{\color{Goldenrod}{\textsf{Who:}}}}$ Siobhan is a dietitian who primarily works with clients with various disorders (such as IBS, hypercholesterolemia, and high blood pressure) to develop diets that can alleviate their symptoms. <br> 
+${{\color{OliveDrab}{\textsf{Wants:}}}}$ Many of Siobhan's patients are also taking medications to address their illnesses. Siobhan wants to know whether she needs to change the diets she prescribes based on which medications her clients are on. <br>
+${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Siobhan needs a simple application on her computer that can give her recommendations on what foods to choose/avoid based on a particular drug. <br>
+${{\color{MediumPurple}{\textsf{Skill:}}}}$ Siobhan is not tech savvy. She really only uses her computer to browse the web and watch cat videos. <br>
+
+**4. Aaliyah:** <br>
+${{\color{Goldenrod}{\textsf{Who:}}}}$ Aaliyah is an undergrad studying nutrition science. <br> 
+${{\color{OliveDrab}{\textsf{Wants:}}}}$ Aaliyah just joined a research lab that studies the microbiome and is excited to do research for the first time. Aaliyah pitched the idea of looking at diet-microbiome interactions, and her mentor asked her to do some reading and see if there are any ways to analyze this data that have been reported in the literature. <br>
+${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Aaliyah wants software where she can input various foods and compare microbiota in their presence/absence. She wants to use Python to do her analysis, but needs many high-level functions to be implemented because she's just starting to learn how to code. Her lab has a lot of their own data that she can use. <br>
+${{\color{MediumPurple}{\textsf{Skill:}}}}$ Aaliyah has taken an intro CS course, but half of it was taught in Scratch (drag and drop programming) and she only did a little bit of Python at the end. <br>
+
+**5. Michelle:** <br>
+${{\color{Goldenrod}{\textsf{Who:}}}}$ Michelle is a retired software engineer who has been taking statins to help with her high cholesterol levels for several years. Unfortunately, she has been experiencing more chest pain than usual even though she is taking her medications as usual. <br> 
+${{\color{OliveDrab}{\textsf{Wants:}}}}$ Michelle's doctor is not convinced that anything is wrong and just told her to eat healthier, but Michelle knows there's an issue. She wants to know if there are any known factors that can interfere with statin efficacy, and she is not afraid to do her own analysis. <br>
+${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Michelle needs a Python package that can analyze various statin-related datasets so she can figure out how to change her lifestyle to alleviate her symptoms. <br>
+${{\color{MediumPurple}{\textsf{Skill:}}}}$ Michelle has extensive experience with computer science. <br>
+
