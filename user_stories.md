@@ -133,7 +133,7 @@ ${{\color{Goldenrod}{\textsf{Who:}}}}$ Dr. Rodriguez is a clinical researcher wo
 **3. Maya:** <br> 
 ${{\color{Goldenrod}{\textsf{Who:}}}}$ Maya is a bioinformatician specializing in microbiome data analysis.<br> ${{\color{OliveDrab}{\textsf{Wants:}}}}$ She wants to integrate new analysis methods into the MEDI tool and customize the food classification algorithms.<br> ${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ She needs programmatic access to raw data and the ability to modify analysis pipelines.<br> ${{\color{MediumPurple}{\textsf{Skill:}}}}$ Maya is proficient in Python, R, and bioinformatics tools.
 
-**4. Tom: ** <br> 
+**4. Tom:** <br> 
 ${{\color{Goldenrod}{\textsf{Who:}}}}$ Tom is a new graduate student <br> ${{\color{OliveDrab}{\textsf{Wants:}}}}$ He wants to explore how different gut bacteria influence statin metabolism and insulin resistance.<br> ${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ He needs well-documented tutorials and example analyses to guide his research.<br> ${{\color{MediumPurple}{\textsf{Skill:}}}}$ Tom has basic programming skills and wants to learn new analytical methods.
 
 **5. Dr. Beck:** <br>
