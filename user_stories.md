@@ -55,8 +55,39 @@ ${{\color{OliveDrab}{\textsf{Wants:}}}}$ One of her patients who has heart disea
 ${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ She first wants to double check that these foods won’t impact the efficacy of the statins that he is taking. She is so exasperated and worn out by this patient that she just wants to check the foods quickly and easily. <br>
 ${{\color{MediumPurple}{\textsf{Skill:}}}}$ She still is afraid of computers and really doesn’t want to call her granddaughter for help (using her flip phone). <br>
 
-**4. Drew:** <br>
+**5. Drew:** <br>
 ${{\color{Goldenrod}{\textsf{Who:}}}}$ Drew is a PhD student who works with Bradley, but on a different project. <br>
 ${{\color{OliveDrab}{\textsf{Wants:}}}}$ He wants to know if he can use the tool to figure out if patients are really eating what they say they are and taking their meds as consistently as they say they are, because he wants to know if the complexity of the prescribed meds and diet routine is too high (and if they would get better patient compliance if it were scaled back). <br>
 ${{\color{CornflowerBlue}{\textsf{Needs:}}}}$  He wants to compare the data he has from user responses to the output of the tool (when used on their stool samples), and then use the tool to make a priority list of what foods are most important to eat and avoid so that he can scale back the instructions given to the patients if needed. <br>
 ${{\color{MediumPurple}{\textsf{Skill:}}}}$ He is good at coding, and would prefer to have access to the code itself instead of it all being under the hood of a GUI, but he also doesn’t want to focus too much of his energy on the tool so that he can focus on the patient side of things. 
+
+## Melissa's Users:
+**1. Daisy:** <br>
+${{\color{Goldenrod}{\textsf{Who:}}}}$ Daisy is an undergraduate student who read a paper in her class about the links between medications, the microbiome, and diet. She is interested in exploring real world data about this subject. <br> 
+${{\color{OliveDrab}{\textsf{Wants:}}}}$ To be able to use this tool to visualize links between different foods, microbiome players, and medications. Daisy is interested in studying something similar to this one day, so wants a tool that will be able to output visuals and statistics for different variables she can input. <br>
+${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Something that is easy and exciting for a new python user to play around with. Daisy would like something she can run as a function with different food, microbiome, and medication parameters that will output plots and statistics. <br>
+${{\color{MediumPurple}{\textsf{Skill:}}}}$ Daisy has taken an introductory course into python. <br>
+
+**2. Jamie:** <br>
+${{\color{Goldenrod}{\textsf{Who:}}}}$ Jamie is a first year graduate student who is interested in studying the effects between long covid, diet, and the microbiome. <br>
+${{\color{OliveDrab}{\textsf{Wants:}}}}$ A tool they can use with their lab’s own stool sample data. <br>
+${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Jamie would love to have a working framework code that they can manipulate to fit their lab's needs (ex: they can add extra data frame columns of SARS-CoV-2 information). <br>
+${{\color{MediumPurple}{\textsf{Skill:}}}}$ They are an intermediate python user, so well documented code with this toolset would be nice. <br>
+
+**3. Brad:** <br>
+${{\color{Goldenrod}{\textsf{Who:}}}}$ Brad is a second year graduate student interested in microbiome research, but is also a gym enthusiast taking several medications. <br>
+${{\color{OliveDrab}{\textsf{Wants:}}}}$ Brad wants to link his knowledge of how to work with microbiome datasets with a tool that can tell him if his diet can help any effects his medications might have on his microbiome. <br>
+${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Brad needs a tool that he can feed his own stool metagenomic data into and get out his diet and microbiome health in some form of visuals and statistics. <br>
+${{\color{MediumPurple}{\textsf{Skill:}}}}$ Although Brad is an intermediate python user, he wants a tool he can easily interface so that he can spend most of his coding brain on his lab projects. <br>
+
+**4. Drew:** <br>
+${{\color{Goldenrod}{\textsf{Who:}}}}$ Kelly is a physician who has many patients taking statins. She keeps up on the latest science articles and recently came across a new study about medications, diet, and the microbiome. <br>
+${{\color{OliveDrab}{\textsf{Wants:}}}}$ Kelly wants to know if there are certain foods she can suggest to her patients on certain medications that can help with their microbiome. <br>
+${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Needs: A tool with an easy interface that lab technicians can feed stool sample data into, but Kelly can use to pull up patient files with information about the medications they are on, diet information, and microbiome health. <br>
+${{\color{MediumPurple}{\textsf{Skill:}}}}$ Kelly is familiar with the microbiome and reading some metagenomic data, but doesn’t have any familiarity with computer science. <br>
+
+**5. Cooper:** <br>
+${{\color{Goldenrod}{\textsf{Who:}}}}$ Cooper is a retired microbiome scientist who is interested in keeping up with the latest research. <br>
+${{\color{OliveDrab}{\textsf{Wants:}}}}$ Cooper would be able to download datasets from other papers and feed them into this tool. He wants to be able to play around and visualize data to find interesting things he can suggest his former students to look into. <br>
+${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Cooper needs an easy interface with a lot of functionality so that he can play around with a lot of different variables without having to code himself. <br>
+${{\color{MediumPurple}{\textsf{Skill:}}}}$ Cooper used to do a little bit of python coding, but not enough for him to do what he wants to do with this tool on his own. <br>
