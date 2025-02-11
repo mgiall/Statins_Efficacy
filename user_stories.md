@@ -80,7 +80,7 @@ ${{\color{OliveDrab}{\textsf{Wants:}}}}$ Brad wants to link his knowledge of how
 ${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Brad needs a tool that he can feed his own stool metagenomic data into and get out his diet and microbiome health in some form of visuals and statistics. <br>
 ${{\color{MediumPurple}{\textsf{Skill:}}}}$ Although Brad is an intermediate python user, he wants a tool he can easily interface so that he can spend most of his coding brain on his lab projects. <br>
 
-**4. Drew:** <br>
+**4. Kelly:** <br>
 ${{\color{Goldenrod}{\textsf{Who:}}}}$ Kelly is a physician who has many patients taking statins. She keeps up on the latest science articles and recently came across a new study about medications, diet, and the microbiome. <br>
 ${{\color{OliveDrab}{\textsf{Wants:}}}}$ Kelly wants to know if there are certain foods she can suggest to her patients on certain medications that can help with their microbiome. <br>
 ${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Needs: A tool with an easy interface that lab technicians can feed stool sample data into, but Kelly can use to pull up patient files with information about the medications they are on, diet information, and microbiome health. <br>
