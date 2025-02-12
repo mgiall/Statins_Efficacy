@@ -121,7 +121,7 @@ ${{\color{MediumPurple}{\textsf{Skill:}}}}$ Mike thinks higher education is a wa
 ${{\color{Goldenrod}{\textsf{Who:}}}}$ Michelle is a retired software engineer who has been taking statins to help with her high cholesterol levels for several years. Unfortunately, she has been experiencing more chest pain than usual even though she is taking her medications as usual. <br> 
 ${{\color{OliveDrab}{\textsf{Wants:}}}}$ Michelle's doctor is not convinced that anything is wrong and just told her to eat healthier, but as a long-time statin user, Michelle can feel that there's an issue. She wants to know if there are any known factors that can interfere with statin efficacy so she can figure out how to change her lifestyle to alleviate her symptoms because her doctor won’t. <br>
 ${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Michelle needs a Python package that can analyze various statin-related datasets and draw conclusions about lifestyle effects like diet, exercise etc. <br>
-${{\color{MediumPurple}{\textsf{Skill:}}}}$ Michelle has extensive experience with computer science and is not afraid to do he brown analysis. <br>
+${{\color{MediumPurple}{\textsf{Skill:}}}}$ Michelle has extensive experience with computer science and is not afraid to do her own analysis. <br>
 
 ## Anika's Users
 **1. Sarah:** <br> 
