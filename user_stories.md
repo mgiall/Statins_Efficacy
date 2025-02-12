@@ -111,17 +111,17 @@ ${{\color{OliveDrab}{\textsf{Wants:}}}}$ Many of Siobhan's patients are also tak
 ${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Siobhan needs a simple application on her computer that can give her recommendations on what foods to choose/avoid based on a particular drug. <br>
 ${{\color{MediumPurple}{\textsf{Skill:}}}}$ Siobhan is not tech savvy. She really only uses her computer to browse the web and watch cat videos. <br>
 
-**4. Aaliyah:** <br>
-${{\color{Goldenrod}{\textsf{Who:}}}}$ Aaliyah is an undergrad studying nutrition science. <br> 
-${{\color{OliveDrab}{\textsf{Wants:}}}}$ Aaliyah just joined a research lab that studies the microbiome and is excited to do research for the first time. Aaliyah pitched the idea of looking at diet-microbiome interactions, and her mentor asked her to do some reading and see if there are any ways to analyze this data that have been reported in the literature. <br>
-${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Aaliyah wants software where she can input various foods and compare microbiota in their presence/absence. She wants to use Python to do her analysis, but needs many high-level functions to be implemented because she's just starting to learn how to code. Her lab has a lot of their own data that she can use. <br>
-${{\color{MediumPurple}{\textsf{Skill:}}}}$ Aaliyah has taken an intro CS course, but half of it was taught in Scratch (drag and drop programming) and she only did a little bit of Python at the end. <br>
+**4. Mike:** <br>
+${{\color{Goldenrod}{\textsf{Who:}}}}$ Mike is the coach of a college football team. <br> 
+${{\color{OliveDrab}{\textsf{Wants:}}}}$ Mike is not above using unethical methods (doping) to give his players an advantage. He wants to know if there are any ways that his players can use specific diets to cover up a drug trail. <br>
+${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Mike wants a way to identify foods that make medicated patients' data look more like those of unmedicated patients. The sports medicine department is in on this and can provide lab data on the players.<br>
+${{\color{MediumPurple}{\textsf{Skill:}}}}$ Mike thinks higher education is a waste of time and that Python is an animal.<br>
 
 **5. Michelle:** <br>
 ${{\color{Goldenrod}{\textsf{Who:}}}}$ Michelle is a retired software engineer who has been taking statins to help with her high cholesterol levels for several years. Unfortunately, she has been experiencing more chest pain than usual even though she is taking her medications as usual. <br> 
-${{\color{OliveDrab}{\textsf{Wants:}}}}$ Michelle's doctor is not convinced that anything is wrong and just told her to eat healthier, but Michelle knows there's an issue. She wants to know if there are any known factors that can interfere with statin efficacy, and she is not afraid to do her own analysis. <br>
-${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Michelle needs a Python package that can analyze various statin-related datasets so she can figure out how to change her lifestyle to alleviate her symptoms. <br>
-${{\color{MediumPurple}{\textsf{Skill:}}}}$ Michelle has extensive experience with computer science. <br>
+${{\color{OliveDrab}{\textsf{Wants:}}}}$ Michelle's doctor is not convinced that anything is wrong and just told her to eat healthier, but as a long-time statin user, Michelle can feel that there's an issue. She wants to know if there are any known factors that can interfere with statin efficacy so she can figure out how to change her lifestyle to alleviate her symptoms because her doctor won’t. <br>
+${{\color{CornflowerBlue}{\textsf{Needs:}}}}$ Michelle needs a Python package that can analyze various statin-related datasets and draw conclusions about lifestyle effects like diet, exercise etc. <br>
+${{\color{MediumPurple}{\textsf{Skill:}}}}$ Michelle has extensive experience with computer science and is not afraid to do he brown analysis. <br>
 
 ## Anika's Users
 **1. Sarah:** <br> 
