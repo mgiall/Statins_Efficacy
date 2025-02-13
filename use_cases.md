@@ -1,7 +1,7 @@
 Contributions: 
 - Mia consolidated user stories
 - Everyone ranked priorities
-- Everyone chose final stories
+- Everyone chose final use cases
 - Melissa made our diagram
 - Crystal push add markdown and image to repo
 
