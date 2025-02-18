@@ -11,6 +11,4 @@ Additions 2/18:
 - Everyone looked over it
 - Crystal copy pasted use case images and added to repo
 
-![Use_Cases_12Feb2025](https://github.com/user-attachments/assets/a16cf255-f3a3-4587-96a1-6e90588b4738)
-
-
+<img width="960" alt="Screenshot 2025-02-18 at 9 44 23 AM" src="https://github.com/user-attachments/assets/afd697ae-4efe-41a0-89dc-73892eca228d" />
