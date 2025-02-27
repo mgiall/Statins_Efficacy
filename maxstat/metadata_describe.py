@@ -1,3 +1,5 @@
+from matplotlib import pyplot as plt
+
 # Made with help from ChatGPT
 def metadata_describe(df,drugs_of_interest=[]):
     ''' This function takes in the provided dataframe (in our case, the MEDI-prepared metacardis data)
