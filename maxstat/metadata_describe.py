@@ -1,15 +1,21 @@
-from matplotlib import pyplot as plt
-
-# Made with help from ChatGPT
+xx# Made with help from ChatGPT
 def metadata_describe(df,drugs_of_interest=[]):
     ''' This function takes in the provided dataframe (in our case, the MEDI-prepared metacardis data)
         and it plots relavent plots describing the data, as well as outputting a dataframe 
          containing the concatinated describe functions for each column.'''
+
+    import pandas as pd
+    import matplotlib.pyplot as plt
+    import seaborn as sns
+    import matplotlib.ticker as mticker  
+       
     # Store original column names for reference
     original_columns = df.columns.copy()
     # Standardize column names
     df.columns = df.columns.str.lower().str.replace(" ", "_")
-
+    drugs_of_interest = [s.lower() for s in drugs_of_interest]
+    drugs_of_interest = [s.replace(" ", "_") for s in drugs_of_interest]
+    
     # Remove client ID column if present
     df = df.loc[:, df.nunique() > 1]
     
@@ -24,26 +30,6 @@ def metadata_describe(df,drugs_of_interest=[]):
 
     # Mapping standardized names back to original names for labeling purposes
     col_name_map = dict(zip(df.columns, original_columns.str.replace("_"," ")))
-
-    # # Prompt user for drug of interest
-    # if medication_cols:
-    #     print("Available medications in dataset:")
-    #     for i, med in enumerate(medication_cols, 1):
-    #         print(f"{i}. {col_name_map.get(med, med)}")
-        
-    #     while True:
-    #         try:
-    #             choices = input("Select one or more drugs of interest by entering numbers separated by commas: ")
-    #             selected_indices = [int(choice.strip()) for choice in choices.split(',')]
-    #             if all(1 <= choice <= len(medication_cols) for choice in selected_indices):
-    #                 drugs_of_interest = [medication_cols[i - 1] for i in selected_indices]
-    #                 break
-    #             else:
-    #                 print("Invalid choice. Please select valid numbers.")
-    #         except ValueError:
-    #             print("Invalid input. Please enter numbers separated by commas.")
-    # else:
-    #     drugs_of_interest = None
     
     # Visualizations
     # Bar chart for medication usage
