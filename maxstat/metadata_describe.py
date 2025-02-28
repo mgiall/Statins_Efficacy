@@ -1,4 +1,4 @@
-xx# Made with help from ChatGPT
+# Made with help from ChatGPT
 def metadata_describe(df,drugs_of_interest=[]):
     ''' This function takes in the provided dataframe (in our case, the MEDI-prepared metacardis data)
         and it plots relavent plots describing the data, as well as outputting a dataframe 
@@ -31,7 +31,7 @@ def metadata_describe(df,drugs_of_interest=[]):
     # Mapping standardized names back to original names for labeling purposes
     col_name_map = dict(zip(df.columns, original_columns.str.replace("_"," ")))
     
-    # Visualizations
+    '''# Visualizations
     # Bar chart for medication usage
     medication_usage = df[medication_cols].mean() * 100
     plt.figure(figsize=(12,6))
@@ -63,5 +63,5 @@ def metadata_describe(df,drugs_of_interest=[]):
             plt.title(f'Distribution of {col_name_map.get(col, col)}', fontsize=14)
             plt.ylabel('')
             plt.show()
-    
+    '''
     return summary_df
