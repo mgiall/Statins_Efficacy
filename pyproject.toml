@@ -3,21 +3,21 @@ requires = ["setuptools >=64"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name =  “statin-efficacy-toml"
-version = “0.1.0”
+name =  "statin-efficacy-toml"
+version = "0.1.0"
 authors = [
     {name = "Crystal Perez", email = "cperez26@uw.edu"}, {name = "Mia Giallorenzi", email = "mgiall@uw.edu"}, {name = "Anika O’Brian", email = "anikaob@uw.edu"}, {name = "Avery Yang", email = "averyyy@uw.edu"}, {name = "Melissa Hopkins", email = "mfhopkin@uw.edu"}
 ]
 description = "A package to analyze statin and diet interaction in the MetaCardis cohort"
 readme = "README.md"
 dependencies = [
-	“numpy>=1.26.1”,
-	“pandas >= 2.2.3”,
-	“matplotlib>=3.8.0”,
-	“scikit-learn>=1.6.1”,
-	“scipy>=1.15.2”,
-	“statsmodels>=0.14.4”,
-	“seaborn>=0.13.2”
+	"numpy>=1.26.1",
+	"pandas >= 2.2.3",
+	"matplotlib>=3.8.0",
+	"scikit-learn>=1.6.1",
+	"scipy>=1.15.2",
+	"statsmodels>=0.14.4",
+	"seaborn>=0.13.2"
 ]
 
 requires-python = ">=3.12"
@@ -28,7 +28,7 @@ classifiers = [
 dynamic = ["version"]
 
 [project.urls]
-Homepage = “https://github.com/Diet-x-Meds/Statins_Efficacy”
+Homepage = "https://github.com/Diet-x-Meds/Statins_Efficacy"
 
 
 
