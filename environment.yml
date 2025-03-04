@@ -1,4 +1,4 @@
-name: codebase
+name: maxstat
 channels:
 - conda-forge
 dependencies:
