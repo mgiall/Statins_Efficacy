@@ -3,4 +3,4 @@ A project that will work on finding a correlation between the gut microbiome, St
 
 
 Authors:
-Mia Giallorenzi, Melissa Hopkins, Avery Yang, Crystal Perez 
+Mia Giallorenzi, Melissa Hopkins, Avery Yang, Crystal Perez, Anika OBrian
